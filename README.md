@@ -77,7 +77,6 @@ chrome.storage.local.set({ jira_client_id: 'YOUR_ATLASSIAN_CLIENT_ID' })
 ```bash
 npm install
 npm run build
-# (build also copies manifest.json into dist/)
 ```
 
 Then in Chrome:
